@@ -88,5 +88,5 @@ See `REPORT.pdf` for the full explanation.
 
 * AKM Azimul Ashique Khan(ID:230041153)
 * Mahir Labib(ID:230041139)
-* Abrar Faiyaz(ID:230041139)
+
 
