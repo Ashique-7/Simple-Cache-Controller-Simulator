@@ -86,7 +86,7 @@ See `REPORT.pdf` for the full explanation.
 
 ## Author / Group
 
-AKM Azimul Ashique Khan
-Mahir Labib
-Abrar Faiyaz
+* AKM Azimul Ashique Khan
+* Mahir Labib
+* Abrar Faiyaz
 
